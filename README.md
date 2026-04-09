@@ -133,13 +133,7 @@ python -m streamlit run app.py
 
 ---
 
-##  Limitations
 
-* Basic sentiment analysis (keyword-based)
-* Depends on external API availability
-* Customer data is simulated
-
----
 
 ##  Future Enhancements
 
